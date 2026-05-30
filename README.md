@@ -2,7 +2,7 @@
 
 # Glass Armonica
 
-Status: L2 concept / pending-measurement packet
+Status: L3-candidate V5 packet (deepened: protocols, tolerances, assembly, FMEA)...
 
 Private V5 concept packet for a Franklin-style glass armonica: nested graduated
 glass bowls mounted on a horizontal spindle, rotated by a treadle and flywheel,
