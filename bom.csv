@@ -9,3 +9,6 @@ GA-BELT,drive,belt or cord drive,pending_measurement,estimate_class_only,"Materi
 GA-FRAME,structure,bench frame and spindle supports,pending_measurement,estimate_class_only,"Envelope and joinery are not specified."
 GA-WATER,playing_interface,water tray and wipe area,pending_measurement,estimate_class_only,"Moisture control must protect bearings, belt path, frame, and player."
 GA-GUARDS,safety,rotating glass and drive guards,pending_measurement,estimate_class_only,"Guarding concept must address glass fracture, pinch points, and cleanup."
+GA-SAMPLE-MOUNT,validation,sacrificial mounting coupon set,pending_measurement,estimate_test_need,"Needed to test gasket, cone, collar, and non-marring support ideas before touching a bowl set."
+GA-DRIP-CONTROL,playing_interface,drip capture and drying path,pending_measurement,estimate_class_only,"Water routing must be tested with the intended frame and drive layout."
+GA-SERVICE-TOOLS,maintenance,bowl removal and cleaning tools,pending_measurement,estimate_class_only,"Service approach remains open until the bowl support method is reviewed."
