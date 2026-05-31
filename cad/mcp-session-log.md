@@ -16,6 +16,7 @@ V5 provenance stub for the glass armonica L1 packet.
 | session_id | tool | input_authority | outputs | role | authority_result | review_status | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | none-2026-05-30 | none | Round 7 handoff and public-domain mechanical concept description in prompt. | `README.md`, `design.md`, `bom.csv`, `decision-record.md`, `visual-output-register.csv`, `cad/mcp-session-log.md` | l1_concept_packet | concept_only | self_checked | No MCP, CAD, image, audio, Wolfram, or CAM tool generated artifacts. |
+| r8-wolfram-hand-authored-2026-05-30 | Codex local edit | Round 8 Wolfram author contract; existing L3-candidate packet boundary. | `glass-armonica-starter.wl`, `wolfram/glass-armonica-wolfram-model.wl`, `visual-output-register.csv`, `cad/mcp-session-log.md` | reference_only_wolfram_source | reference_only | self_checked | No MCP, Wolfram Desktop, Wolfram Cloud, CAD, DXF, measurement, tuner, or acoustic calibration session was run; source was authored by hand with estimate placeholders only. |
 
 ## Authority Notes
 
