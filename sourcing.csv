@@ -1,0 +1,7 @@
+item,required_spec,search_terms,supplier_candidates,date_checked,unit_price_usd,lead_time,substitution_risk,notes
+Graduated glass bowl set,TBD (count/diameters/wall profiles not released; see design.md bowl stack subsystem),"glass armonica bowl set nested crystal bowls","scientific glassware suppliers; glass armonica specialty makers",TBD,TBD,TBD,High,"Blocked on measured bowl candidate evidence before spec can be released."
+Horizontal spindle stock,TBD (material/diameter pending bowl-interface review),"precision ground shaft rotating spindle","metal stock suppliers",TBD,TBD,TBD,Medium,"Waits on sacrificial mounting coupon test (design.md spindle and mounts subsystem)."
+Bearing pair,TBD (load/quiet-running spec pending),"quiet pillow block bearing low noise","bearing suppliers",TBD,TBD,TBD,Medium,"Quiet drive mockup test required (design.md drive train subsystem)."
+Treadle + flywheel hardware,TBD (drive ratio/geometry pending),"foot treadle flywheel mechanism","hardware/mechanism suppliers",TBD,TBD,TBD,Medium,"Bench rig comparison required before spec release."
+Non-marring bowl mount material,TBD (gasket/cone/collar strategy pending),"cork gasket felt bowl mount non-marring","gasket/felt suppliers",TBD,TBD,TBD,High,"Sacrificial coupon test required before touching a real bowl set."
+Water tray + drip control materials,TBD (routing pending wetting test),"water tray drip catch instrument","hardware suppliers",TBD,TBD,TBD,Low,"Must protect bearings/belt from moisture per design.md wetting station subsystem."

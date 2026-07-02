@@ -1,0 +1,7 @@
+check_id,area,target,method,tolerance,measured,result,action
+VAL-001,Bowl candidate,"real bowl measured for geometry, mass, and free response (design.md Measurement Gates)",bench measurement + free-response tap test,measurement_required,TBD,TBD,"Reject/reselect bowl candidate"
+VAL-002,Mounting safety,"non-destructive mounting that does not chip pinch or overload the glass",sacrificial coupon mount test,no chip/pinch/overload,TBD,TBD,"Revise mount interface (gasket/cone/collar)"
+VAL-003,Drive noise,"quiet bearing and drive mockup rotates smoothly under treadle power",bench drive rig test,measurement_required,TBD,TBD,"Revise bearing/drive selection"
+VAL-004,Wetting response,"tone onset, water control, and player ergonomics confirmed",wetting test per design.md wetting station subsystem,measurement_required,TBD,TBD,"Revise water delivery/tray design"
+VAL-005,Safety review,"rotating glass, pinch points, belt paths, and cleanup reviewed",safety review per design.md Risks,no defects,TBD,TBD,"Do not proceed to player testing until this passes"
+VAL-006,Cut-list traceability,"every cut-list part tied to measured bowl data or explicit pending-measurement gate",design review against cut-list.csv,all rows traceable,TBD,TBD,"Do not release cut-ready CAD/DXF until this passes"
