@@ -1,0 +1,34 @@
+{
+  "product": "glass-armonica",
+  "pipeline": "studiopipeline:evolution-pipeline",
+  "stage": "0-intake",
+  "master_revision": "rev-A (pre-commit intake, 2026-07-01)",
+  "generated": "2026-07-01",
+  "cad_masters": [
+    {
+      "path": "cad/glass-armonica.scad",
+      "format": "openscad-source",
+      "sha256": "8b73dc43f323cbfd44811596fdb4333f956caa8b959f2a2c8295340d052fc416",
+      "authority": "pending_measurement",
+      "lossy": false,
+      "notes": "Non-dimensional spindle + graded bowl array bounding envelope; bench-planning layout only."
+    },
+    {
+      "path": "wolfram/glass-armonica-wolfram-model.wl",
+      "format": "wolfram-source",
+      "sha256": "c109081804110a8e7ac12d48bd43213e09dd260fe0649adff2771dc1c0522df8",
+      "authority": "reference_only",
+      "lossy": false,
+      "notes": "Source-only (not executed); estimate placeholders."
+    },
+    {
+      "path": "glass-armonica-starter.wl",
+      "format": "wolfram-source",
+      "sha256": "50b9e1aa96116449647776dd7a8ef48c04db36a31b2a5d9b5e31d5d02fc57494",
+      "authority": "reference_only",
+      "lossy": false,
+      "notes": "Thin Wolfram loader; source-only."
+    }
+  ],
+  "notes": "No design table (xlsx) exists for this instrument. OpenSCAD envelope and Wolfram sources are the only current masters; no STEP export. Gate A (Alpha workspace compile) not yet run. Packet held at L2 per no-promotion rule."
+}

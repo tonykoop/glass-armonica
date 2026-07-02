@@ -2,7 +2,9 @@
 
 # Glass Armonica
 
-Status: L3-candidate V5 packet (deepened: protocols, tolerances, assembly, FMEA)...
+**Status:** L2 V5 build-packet candidate (deepened: protocols, tolerances,
+assembly, FMEA; held at L2 per no-promotion rule — no measured geometry or
+fabrication authority yet).
 
 Private V5 concept packet for a Franklin-style glass armonica: nested graduated
 glass bowls mounted on a horizontal spindle, rotated by a treadle and flywheel,
@@ -39,6 +41,12 @@ hardware, drive ratio, rotation speed, and pitch mapping are all
   `concept_only` or `pending_measurement`.
 - `cad/mcp-session-log.md` - provenance stub and QMD Step 0 result.
 - `decision-record.md` - current decisions and open questions.
+- `sourcing.csv`, `validation.csv`, `risks.md`, `drawing-brief.md` - V5
+  baseline packet tables (TBD-marked; no design table exists yet).
+- `cad/glass-armonica.scad` - non-dimensional spindle + graded bowl array
+  bounding envelope; authority `pending_measurement`.
+- `evolution/` - evolution-pipeline Stage 0 intake: master manifest,
+  design-intent, and revision register (Gate A not yet run).
 
 ## Readiness
 
